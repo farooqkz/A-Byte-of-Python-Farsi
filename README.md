@@ -8,9 +8,9 @@
 
 در مقابل شما یک کتاب محبوب ترجمه شده است.
 
-نویسنده کتاب: *** Swaroop Chitlur ***
+نویسنده کتاب: ** Swaroop Chitlur **
 
-مترجم: *** الیاس روحانی ***
+مترجم: ** الیاس روحانی **
 
 کتاب اصلی: [A Byte of Python](https://python.swaroopch.com/)
 
