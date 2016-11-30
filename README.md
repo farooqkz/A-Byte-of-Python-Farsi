@@ -107,7 +107,7 @@
 
 این کتاب تحت مجوز
 
- ** [[Creative Commons Attribution-Share Alike 3.0 Unported](http://creativecommons.org/licenses/by-sa/3.0/)](https://creativecommons.org/licenses/by-sa/3.0/) **
+ **[[Creative Commons Attribution-Share Alike 3.0 Unported](http://creativecommons.org/licenses/by-sa/3.0/)](https://creativecommons.org/licenses/by-sa/3.0/)**
 
 توزیع شده است.
 
