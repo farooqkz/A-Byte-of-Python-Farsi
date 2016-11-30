@@ -10,7 +10,7 @@
 
 نویسنده کتاب: **Swaroop Chitlur**
 
-مترجم:**الیاس روحانی**
+مترجم: **الیاس روحانی**
 
 کتاب اصلی: [A Byte of Python](https://python.swaroopch.com/)
 
