@@ -81,7 +81,7 @@
 
 # دوره های دانشگاهی
 
-این کتاب به عنوان یک کتاب درسی در موسسات اموزشی عالی و غیره تدریس می شود:
+این کتاب به عنوان یک کتاب درسی در موسسات اموزشی عالی زیر تدریس می شود:
 
 - اصول زبان های برنامه نویسی همچنین در  [Vrije Universiteit, Amsterdam](http://www.few.vu.nl/~nsilvis/PPL/2007/index.html) 
  -  مفاهیم اساسی محاسبات  همچنین در  [University of California, Davis](http://www.cs.ucdavis.edu/courses/exp_course_desc/10.html)
