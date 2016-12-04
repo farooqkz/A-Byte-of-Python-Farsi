@@ -11,6 +11,8 @@
 نویسنده کتاب: **Swaroop Chitlur**
 
 مترجم: **الیاس روحانی**
+
+
 ایمیل : rohanielyasea8702@gmail.com
 
 کتاب اصلی: [A Byte of Python](https://python.swaroopch.com/)
