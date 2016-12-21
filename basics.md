@@ -148,3 +148,64 @@ Why is Swaroop playing with that python?
 
 ** چگونه  و چطوری **
 
+
+   با روش  `format`   یک رشته می‌تواند از مشخصات خاص استفاده کند.  در روش  `format` ارگومان های مشخص شده  تعویض می‌شوند با مشخصات از قبل تعیین شده. 
+
+این نشان `{0}`   مربوط به متغییر  `name` است,  که همان ارگومان اول در روش format می‌باشد, همان طور که در بالا مشاهد کردید. پس خیلی ساده نشانه‌ی دوم `{1}` مربوط به متغییر   `age` است ,که همان ارگومان دوم در روش format می باشد. توجه داشته باشید که , پایتون شمارش را از صفر 0 شروع می‌کند, که اولین موقعیت شاخص از صفر و دومی یک است وبه همین ترتیب ادامه دارد.
+
+توجه داشته باشید که با استفاده از الحاق رشته می‌توانید به همان نتیجه برسید :
+<div dir=ltr>
+
+```python
+name + ' is ' + str(age) + ' years old'
+```
+<div dir=rtl>
+
+
+تبدیل رشته به طور خودکار در روش  `format` انجام می‌شود. بجای تبدیل صریح رشته مورد نیاز در این حالت. زمانیکه از روش  format استفاده می‌کینم ما می‌توانیم پیام را تغییر بدهیم بدون نیاز به مقابله با متغیر استفاده می شود و بالعکس.
+
+توجه داشته باشید که اعداد اختیاری هستند و شما می توانید این طوری بنویسید:
+<div dir=ltr>
+
+
+```python
+age = 20
+name = 'Swaroop'
+
+print('{} was {} years old when he wrote this book'.format(name, age))
+print('Why is {} playing with that python?'.format(name))
+```
+<div dir=rtl>
+
+که دقیقا همان خروجی را می‌دهد, مانند برنامه‌ی قبلی.
+
+پایتون چیکار می کند , روش  `format` این است که ارزش را به جای مشخصات جایگزین می‌کند. 
+
+مشخصات بیشتر و دقیق وجود دارد مانند: 
+
+<div dir=ltr>
+
+
+```python
+# decimal (.) precision of 3 for float '0.333'
+print('{0:.3f}'.format(1.0/3))
+# fill with underscores (_) with the text centered
+# (^) to 11 width '___hello___'
+print('{0:_^11}'.format('hello'))
+# keyword-based 'Swaroop wrote A Byte of Python'
+print('{name} wrote {book}'.format(name='Swaroop', book='A Byte of Python'))
+```
+
+<div dir=rtl>
+
+خروجی:
+<div dir=ltr>
+```
+0.333
+___hello___
+Swaroop wrote A Byte of Python
+```
+<div dir=rtl>
+
+
+
