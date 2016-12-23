@@ -17,7 +17,7 @@ _ نظرات _
 
 ```python
  print('hello world') # Note that print is a function
-
+<div dir=rtl>
  (این تابع برای چاپ یک تابع است)
 ```
 
@@ -31,7 +31,7 @@ _ نظرات _
 # Note that print is a function
 print('hello world')
 
-
+<div dir=rtl>
 
  (این تابع برای چاپ یک تابع است)
 ```
