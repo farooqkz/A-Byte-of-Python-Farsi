@@ -18,7 +18,7 @@ _نظرات_
 ```python
  print('hello world') # Note that print is a function
 <div dir=rtl>
- (این تابع برای چاپ یک تابع است)
+ (این تابع برای چاپ است)
 ```
 
 <div dir=rtl>
@@ -33,7 +33,7 @@ print('hello world')
 
 <div dir=rtl>
 
- (این تابع برای چاپ یک تابع است)
+ (این تابع برای چاپ است)
 ```
 <div dir=rtl>
 شما هم می توانید در برنامه های خود از این توضیحات استفاده کنید :
