@@ -410,3 +410,58 @@ r"Newlines are indicated by \n"
 ![PyCharm command line arguments](./img/pycharm_command_line_arguments.png)
 
 
+
+
+
+### برای دیگر ویراستارها
+ 
+
+۱. ویراستار خود را بازکنید.
+
+۲. برنامه‌ی داده شده را مانند مثال‌ها بنویسید.
+
+۳. فایل با نام داده شده ذخیره کنید.
+
+۴. برای اجرای دستور و مترجم برنامه از دستور `python program.py` استفاده کنید.
+
+### برای مثال : استفاده از متغیرها و الفظی ثابت 
+
+برنامه‌ی زیر را بنویسید و اجرا کنید:
+
+<div dir=ltr>
+
+
+```python
+# Filename : var.py
+i = 5
+print(i)
+i = i + 1
+print(i)
+
+s = '''This is a multi-line string.
+This is the second line.'''
+print(s)
+```
+<div dir=rtl>
+
+خروجی:
+
+
+<div dir=ltr>
+
+
+
+```
+5
+6
+This is a multi-line string.
+This is the second line.
+```
+
+<div dir=rtl>
+
+
+
+
+
+
