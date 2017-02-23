@@ -13,7 +13,7 @@
 
 در اینجا لینکی برای نسخه‌ی عربی موجوود است. از اشراف علی خلاف برای ترجمه سپاس گذاریم,شما می‌توانید تمامی کتاب را انلاین بخوانید با مراجعه‌ی به این لینک  <http://www.khaledhosny.org/byte-of-python/index.html>  یا می‌توانید با دانلود از این لینک  [sourceforge.net](http://downloads.sourceforge.net/omlx/byteofpython_arabic.pdf?use_mirror=osdn) for more info see <http://itwadi.com/byteofpython_arabi> و از این کتاب اذت ببرید.
 
-## اذزبیجانی
+## اذربایجانی
 
 
 Jahangir Shabiyev  داوطلب دیگری بوده برای ترجمه‌ی این کتاب به اذربایجانی که ترجمه در حال ادامه است و برای مشاهده به لینک زیر مراجعه کنید 
