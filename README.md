@@ -140,7 +140,7 @@
 
 [نسخه‌ی انلاین](https://elyas.gitbooks.io/a-byte-of-python-persian/content/)
 
-## دانلود(نسخه‌ی اصلی)
+## نسخه‌ی زبان اصلی
 
 
 
