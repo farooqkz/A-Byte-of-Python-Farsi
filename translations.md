@@ -109,3 +109,28 @@ Fred Lin (gasolin@gmail.com)
 >   همچنین ویژگی نسخه‌ی جدید چینی سنتی با قابلیت همسان منبع پایتون , که پروژه‌ی ارشیوی با اسم م 'zhpy' (پایتون در چینی) است.
 
 >  zhpy (تلفظ‌ اش (Z.H.?, or zippy)) ساختن لایه‌ی روی پایتون برای ترجمه یا ارتباط برقرار کردن  با پایتون درزبان چینی (سنتی یا ساده شده). این پروژه پایه‌ی برای اموزش و پرورش است.
+
+
+## فرانسوی
+<div dir=ltr>
+Gregory (coulix@ozforces.com.au) 
+<div dir=rtl>
+برای ترجمه‌ی کتاب به فرانسوی داوطلب شده است.
+<div dir=ltr>
+
+Gérard Labadie (gerard.labadie@gmail.com)
+<div dir=rtl>
+
+ترجمه‌ی کتاب به فرانسوی اتمام رسیده است.
+
+## المانی
+<div dir=ltr>
+
+Lutz Horn (lutz.horn@gmx.de), Bernd Hengelein (bernd.hengelein@gmail.com) and Christoph Zwerschke (cito@online.de)
+<div dir=rtl>
+برای ترجمه‌ی کتاب به المانی داوطلب شده‌اند. ترجمه در لینک زیر قرار دارد
+<http://ftp.jaist.ac.jp/pub//sourceforge/a/ab/abop-german.berlios/>
+
+Lutz Horn می‌گوید:
+
+> من ۳۲ سالم و در حوضه ریاضی درس‌می‌خوانم در دانشگاه هایدلبرگ المان. در واقع من مهندش نرم‌افزار کار هستم.
