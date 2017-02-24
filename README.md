@@ -132,15 +132,15 @@
 
 - تمامی سناریوها و قطعات ارئه شده در کتاب تحت مجوز BSD است.  مگر انکه به صراحت گفته شود.
 
-# دانلود
+# مطالعه
 
 [منبع اصلی](https://github.com/swaroopch/byte-of-python)
 
 <div dir=ltr>
 
-[PDF (for desktop reading, etc.)](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
+[نسخه‌ی انلاین](https://elyas.gitbooks.io/a-byte-of-python-persian/content/)
 
-[EPUB (for iPhone/iPad, ebook readers, etc.)](https://www.gitbook.com/download/epub/book/swaroopch/byte-of-python)
+
 
 <div dir=rtl>
 
