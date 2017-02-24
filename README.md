@@ -134,7 +134,7 @@
 
 # مطالعه
 
-[منبع اصلی](https://github.com/swaroopch/byte-of-python)
+[منبع فارسی](https://elyas.gitbooks.io/a-byte-of-python-persian/content/)
 
 <div dir=ltr>
 
