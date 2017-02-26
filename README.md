@@ -134,11 +134,11 @@
 
 # مطالعه
 
-[منبع فارسی](https://elyas.gitbooks.io/a-byte-of-python-persian/content/)
+[منبع فارسی](https://elyas8702.gitbooks.io/a-byte-of-python-persian/content/)
 
 <div dir=ltr>
 
-[نسخه‌ی انلاین](https://elyas.gitbooks.io/a-byte-of-python-persian/content/)
+[نسخه‌ی انلاین](https://elyas8702.gitbooks.io/a-byte-of-python-persian/content/)
 
 ## نسخه‌ی زبان اصلی
 
