@@ -1,7 +1,7 @@
 <div dir=rtl>
 
 
-# فداکارها
+# فداکاریها
 
 به یاد [Kalyan Varma](http://www.kalyanvarma.net/) و همچنین خیلی‌ از افراد دیگر در  [PESIT](http://www.pes.edu/)  که ما را با دنیای گنولینوکس و منبع باز اشنا کردن.
 
