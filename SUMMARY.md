@@ -22,7 +22,7 @@
 * [خوب بعدش چی](what_next.md)
 * [ضمیمه: ](floss.md)
 * [ضمیمه: درباره](about.md)
-* [ضمیمه: تاریخچه‌ی](revision_history.md)
+* [ضمیمه: تاریخچه](revision_history.md)
 * [ضمیمه: مترجمین](translations.md)
 * [ضمیمه: چگونه ترجمه کنیم](translation_howto.md)
 * [بازخوردها](feedback.md)
