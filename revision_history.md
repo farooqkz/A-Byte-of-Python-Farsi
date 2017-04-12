@@ -1,4 +1,5 @@
  {#history-lesson}
+<div dir=rtl>
 
 # تاریخچه
 
