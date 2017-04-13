@@ -19,3 +19,36 @@
 ## وضیعت کتاب
 
 کتاب نیاز به کمک خواننده‌های خود دارد, مانند شما, تا اینکه قسمت‌های که درست نیست یا اینکه اصلا اشتباه است به ان اشاره کنید. لطفا [نام نویسنده‌ی اصلی را بنویسید.]({{ book.contactUrl }}) .  یا همان طور که اشاره شده در [مترجمین](./translations.md#translations) نظرها و پیشنهادات خود را بگوید.
+
+
+# تاریخچه
+
+- 4.0
+
+     -  ۱۹ ژانویه ۲۰۱۶
+
+     - دوباره‌ برگشت به پایتون نسخه‌ی ۳
+
+     - برگشت به  Markdown و استفاده از [GitBook](https://www.gitbook.com) و  [Spacemacs](http://spacemacs.org)
+
+- 3.0
+     
+    - ۳۱ مارس ۲۰۱۴
+
+    - بازنویسی شد برای پایتون نسخه‌ی ۲
+[AsciiDoc](http://asciidoctor.org/docs/what-is-asciidoc/) و  [adoc-mode](https://github.com/sensorflo/adoc-mode/wiki)
+
+- 2.1
+   
+   - ۰۳ اگوست ۲۰۱۳
+
+   - بازنویسی شد برای Markdown و [Jason Blevins' Markdown Mode](http://jblevins.org/projects/markdown-mode/)
+   
+
+- 2.0
+
+   - ۲۰ اکتبر ۲۰۱۲
+
+  - با [ فرمت Pandoc](http://johnmacfarlane.net/pandoc/README.html) بازنویسی شد. از همسرم خودم تشکر می‌کنم که بیشتر بازنویسی تبدیل به MediaWiki انجام داد
+
+  - ساده سازی متنی, حذف کردن قسمت‌های اضافی, مانند: `غیر محلی‌ها` و metaclasses
