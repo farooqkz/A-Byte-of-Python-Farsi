@@ -27,22 +27,22 @@
 
      -  ۱۹ ژانویه ۲۰۱۶
 
-     - دوباره‌ برگشت به پایتون نسخه‌ی ۳
+     - .دوباره‌ برگشت به پایتون نسخه‌ی ۳
 
-     - برگشت به  Markdown و استفاده از [GitBook](https://www.gitbook.com) و  [Spacemacs](http://spacemacs.org)
+     - برگشت به  Markdown و استفاده از [GitBook](https://www.gitbook.com) و  [Spacemacs](http://spacemacs.org).
 
 - 3.0
      
     - ۳۱ مارس ۲۰۱۴
 
     - بازنویسی شد برای پایتون نسخه‌ی ۲
-[AsciiDoc](http://asciidoctor.org/docs/what-is-asciidoc/) و  [adoc-mode](https://github.com/sensorflo/adoc-mode/wiki)
+[AsciiDoc](http://asciidoctor.org/docs/what-is-asciidoc/) و  [adoc-mode](https://github.com/sensorflo/adoc-mode/wiki).
 
 - 2.1
    
    - ۰۳ اگوست ۲۰۱۳
 
-   - بازنویسی شد برای Markdown و [Jason Blevins' Markdown Mode](http://jblevins.org/projects/markdown-mode/)
+   - بازنویسی شد برای Markdown و [Jason Blevins' Markdown Mode](http://jblevins.org/projects/markdown-mode/).
    
 
 - 2.0
@@ -51,18 +51,18 @@
 
   - با [ فرمت Pandoc](http://johnmacfarlane.net/pandoc/README.html) بازنویسی شد. از همسرم خودم تشکر می‌کنم که بیشتر بازنویسی تبدیل به MediaWiki انجام داد
 
-  - ساده سازی متنی, حذف کردن قسمت‌های اضافی, مانند: `غیر محلی‌ها` و metaclasses
+  - ساده سازی متنی, حذف کردن قسمت‌های اضافی, مانند: `غیر محلی‌ها` و metaclasses.
 
 
 - 1.90
  
-  - ۰۴ سپتامر ۲۰۰۸ و هنوز ادامه دارد
+  - ۰۴ .سپتامر ۲۰۰۸ و هنوز ادامه دارد
 
-  - بازتولد دوباره بعد ۳.۵ سال
+  - .بازتولد دوباره بعد ۳.۵ سال
 
-  - بزانویسی برای پایتون نسخه‌ی ۳
+  - .بزانویسی برای پایتون نسخه‌ی ۳
 
-  - بازنویسی کنید باساتفاده از  
+  - بازنویسی کنید باساتفاده از  .
 http://www.mediawiki.org[MediaWiki] (دوباره)
 
 
@@ -70,4 +70,40 @@ http://www.mediawiki.org[MediaWiki] (دوباره)
 
     - ۱۳ ژانویه ۲۰۰۵
 
-    - به طور کامل بازنویسی شد با استفاده از  [+Quanta](https://en.wikipedia.org/wiki/Quanta_Plus) روی [فدورا](http://fedoraproject.org/)  ۳ هسته‌ی همراه با تعداد زیادی از رفع مشکل و بهروزرسانی. مثال‌های جدید. تمام تظیمات DocBook از صفر بازنویسی کردم
+    - به طور کامل بازنویسی شد با استفاده از  [+Quanta](https://en.wikipedia.org/wiki/Quanta_Plus) روی [فدورا](http://fedoraproject.org/)  ۳ هسته‌ی همراه با تعداد زیادی از رفع مشکل و بهروزرسانی. مثال‌های جدید. تمام تظیمات DocBook از صفر بازنویسی کردم.
+
+
+
+- 1.15 
+
+   - ۲۸ مارس ۲۰۰۴
+
+   - اعمال کمی تغییرات.
+
+- 1.12
+
+   - ۱۶ مارس ۲۰۰۴
+
+   - اعمال تغییرات مکمل.
+
+
+- 1.10
+
+   - ۰۹ مارس ۲۰۰۴
+
+   - رفع غلط‌های املایی بیشتر, با تشکر از بسیاری از علاقه‌مندان و خوانندگان.
+
+
+- 1.00
+
+   - ۰۸ مارس ۲۰۰۴
+
+   - پس از بازید‌های بسیار , انتقادات و پیشنهادات بسیار, از خوانندگان, تغییرات قابل توجهی در درست کردن محتوا و غلط املایی دادم.
+
+
+- 0.99
+
+   - ۲۲ فوریه ۲۰۰۴
+
+   - اضافه شدن فصل جدید ماژول‌ها همچنین اطلاعاتی درباره‌ی توابع, ارگومان‌ها و متغیرها.
+
