@@ -137,6 +137,3 @@ Guido van Rossum  سازنده‌ی زبان پایتون است.
 
 او می‌گوید :   [writing Python is like writing in pseudocode](https://news.ycombinator.com/item?id=1803815) (نوشتن برنامه در پایتون مانند نوشتن کدpseudocode است).
 
-همچنین پایتون عضو همیشگی گوگل بوده است. شما می توانید این حرف را مورد برسی قرار بدهید.
-با نگاه کردن در قسمت  [Google Jobs](http://www.google.com/jobs/index.html)
-به عنوان یک پیش نیاز برای برنامه نویسان لازم است.
