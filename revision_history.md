@@ -177,4 +177,4 @@ http://www.mediawiki.org[MediaWiki] (دوباره).
 
    - ۱۴ نوامبر ۲۰۰۳ 
 
-   - اولین پیس‌نویس و با استفاده از  [KWord](https://en.wikipedia.org/wiki/Kword) نوشته شد.
+   - اولین پیش‌نویس و با استفاده از  [KWord](https://en.wikipedia.org/wiki/Kword) نوشته شد.
