@@ -148,3 +148,15 @@ Bernd Hengelein  می‌گوید:
 ##  یونانی
 
 انجمن یونانی ابونتو [ این کتاب را به یونانی ترجمه کردن](http://wiki.ubuntu-gr.org/byte-of-python-el).برای درس‌های پایتون، که در فرم‌های ما ارئه می‌گردد استفاده کرده‌اند. برای اطلاعات بیشتر بر روی این لینک [@savvasradevic](https://twitter.com/savvasradevic) کلیک کنید.
+
+
+
+##  اندونزی
+
+
+(Daniel (daniel.mirror@gmail.com داوطلب شده برای  ترجمه به زبان اندونزی و لینک کتاب در ادرس <http://python.or.id/moin.cgi/ByteofPython> موجود می‌باشد. 
+
+
+Wisnu Priyambodo داوطلب شده برای ترجمه به زبان اندونزی (cibermen@gmail.com) .
+
+همچنین  Bagus Aji Santoso  داوطب شده برای ترجمه.
