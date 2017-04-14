@@ -133,11 +133,11 @@
 
 # مطالعه
 
-[منبع فارسی](https://elyas.gitbooks.io/a-byte-of-python-farsi/content/)
+[منبع فارسی](https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi)
 
 <div dir=ltr>
 
-[نسخه‌ی انلاین](https://elyas.gitbooks.io/a-byte-of-python-farsi/content/)
+[نسخه‌ی انلاین](https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi)
 
 ## نسخه‌ی زبان اصلی
 
