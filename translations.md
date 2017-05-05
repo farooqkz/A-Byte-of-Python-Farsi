@@ -270,7 +270,10 @@ Dominik Kozaczko داوطلب شده برای ترجمه‌ی کتاب به له
 
 
 
+## پرتغالی 
+ 
 
+Fidel Viegas داوطلب شده برای ترجمه‌ی کتاب به پرتغالی (fidel.viegas@gmail.com)
 
 
 
