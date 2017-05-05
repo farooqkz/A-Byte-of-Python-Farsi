@@ -350,3 +350,11 @@ Cristian Bermudez Serna می‌گوید:
 ## سوئدی
 
 Mikael Jacobsson  داوطلب شده برای ترجمه‌ی کتاب به سوئدی (leochingkwake@gmail.com.
+
+
+
+## ترکی 
+
+
+Türker SEZER و Bugra Cakir  داوطلب شده‌اند بری ترجمه کتاب به ترکی  (tsezer@btturk.net) و  (bugracakir@gmail.com).
+'کجای نسخه‌ی ترکی؟ Bitse de okusak'
