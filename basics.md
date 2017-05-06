@@ -583,3 +583,16 @@ i = 5
 print('I repeat, the value is', i)
 ```
 <div dir=rtl>
+
+وقتی شما این را اجرا می‌کنید، شما خطا‌ی زیر را دریافت می‌کنید:
+
+<div dir=ltr>
+
+
+```
+  File "whitespace.py", line 3
+    print('Value is', i)
+    ^
+IndentationError: unexpected indent
+```
+<div dir=rtl>
