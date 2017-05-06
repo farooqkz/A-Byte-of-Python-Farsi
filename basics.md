@@ -501,22 +501,19 @@ This is the second line.
 i = 5
 print(i)
 ```
-
-is effectively same as
+به طور موثر
 
 ```python
 i = 5;
 print(i);
 ```
 
-which is also same as
-
+مشابه‌اش
 ```python
 i = 5; print(i);
 ```
 
-and same as
-
+دیگر ان
 ```python
 i = 5; print(i)
 ```
