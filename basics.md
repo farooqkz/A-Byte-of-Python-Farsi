@@ -266,10 +266,10 @@ a b c
 <div dir=rtl>
 
 
-<div dir=ltr>
 
 
 ### Escape Sequences (توالی‌های گریز)
+
 <div dir=rtl>
 
 
