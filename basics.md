@@ -260,10 +260,10 @@ print('c')
 خروجی:
 <div dir=ltr>
 ```
-
 a b c
 ```
 <div dir=rtl>
+
 
 
 
