@@ -241,6 +241,7 @@ print('b', end='')
 خروجی : 
 
 <div dir=ltr>
+
 ```
 ab
 ```
@@ -259,6 +260,7 @@ print('c')
 
 خروجی:
 <div dir=ltr>
+
 ```
 a b c
 ```
