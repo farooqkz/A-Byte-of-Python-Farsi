@@ -122,3 +122,28 @@ Hello World
 
 
 <!-- TODO: Update screenshots for Python 3 -->
+
+
+<div dir=ltr>
+
+
+```python
+print("hello world")
+```
+
+
+<div dir=rtl>
+
+حالا برروی متنی که نوشته‌اید راست کلیک کنید (بدون انتخاب متن) و برروی `Run 'hello'` کلیک کنید.
+
+![PyCharm Run 'hello'](./img/pycharm_run.png)
+
+
+و حالا شما باید نتیجه‌ی برنامه خود را ببینید(چیزی که چاپ می‌کند).
+
+![PyCharm output](./img/pycharm_output.png)
+
+
+اوف! ،  برای شروع به کار، این چند گام بود. ولی از این به بعد هر گاه ما از شما می‌خواهیم فایل جدید بسازید، از یاد نبرید برروی  `helloworld` راست کلیک کنید و   `New` -> `Python File` را انتخاب کنید و راه‌های قبلی که بالا اشاره شده بود را طی کنید.
+
+شما می‌توانید اطلاعات بیشتری را درباره‌ی PyCharm در لینک  [PyCharm Quickstart](https://www.jetbrains.com/pycharm-educational/quickstart/) مشاهده نمایید.
