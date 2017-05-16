@@ -78,3 +78,44 @@ Hello World
 اگر شما حاضرید که وقت خود را برای یادگیری ویرایشگر  Vim یا  Emacs بگذارید من توسعه می‌کنم یکی از این ویرایشگرها را یاد بگیرید. چون در اینده خیلی برایتون مفید واقع خواهد شد.همان طور که من قبلا گفتم کسانی که تازه شروع کرده‌اند می‌توانند از  PyCharm برای یادگیری پایتون را استفاده کنند(برای ویرایشگر در حال حاضر).
 
 تکرار: لطفا یک ویرایشگر مناسب انتخاب کنید. این می‌تواند برنامه‌نویسی پایتون را سرگرم کننده و اسان‌تر کند.
+
+
+<div dir=ltr>
+
+## PyCharm {#pycharm}
+
+
+<div dir=rtl>
+
+[PyCharm Educational Edition](https://www.jetbrains.com/pycharm-edu/) این یک ویرایشگر رایگان است که شما می‌توانید برای برنامه‌نویسی پایتون استفاده کنید.
+
+هنگامی که شما PyCharm را باز می‌کنید، شما این را خواهید دید، `Create New Project` برروی ان کلیک کنید:
+
+
+![When you open PyCharm](./img/pycharm_open.png)
+
+`Pure Python` انتخاب کنید:
+
+![PyCharm New Project](./img/pycharm_create_new_project.png)
+
+`untitled` را به  `helloworld` تغییر بدهید. همچنین محل پروژه و جزییات را باید به این شکل ببینید:
+
+
+![PyCharm project details](./img/pycharm_create_new_project_pure_python.png)
+
+برروی کلید  `Create` کلیک کنید:
+
+ برروی `helloworld` راست کلیک کنید. در نوار کناری  `New` -> `Python File` را انتخاب کنید:
+
+![PyCharm -> New -> Python File](./img/pycharm_new_python_file.png)
+
+به شما گفته می‌شود اسم را وارد کنید، `hello` را وارد کنید.
+
+
+![PyCharm New File dialog box](./img/pycharm_new_file_input.png)
+
+حالا شما می‌توانید فایل باز شده را ببینید:
+
+![PyCharm hello.py file](./img/pycharm_hello_open.png)
+
+خطوط موجود را پاک کرده و متن زیر را وارد کنید:
