@@ -119,3 +119,6 @@ Hello World
 ![PyCharm hello.py file](./img/pycharm_hello_open.png)
 
 خطوط موجود را پاک کرده و متن زیر را وارد کنید:
+
+
+<!-- TODO: Update screenshots for Python 3 -->
