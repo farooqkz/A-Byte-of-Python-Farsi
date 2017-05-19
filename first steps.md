@@ -147,3 +147,48 @@ print("hello world")
 اوف! ،  برای شروع به کار، این چند گام بود. ولی از این به بعد هر گاه ما از شما می‌خواهیم فایل جدید بسازید، از یاد نبرید برروی  `helloworld` راست کلیک کنید و   `New` -> `Python File` را انتخاب کنید و راه‌های قبلی که بالا اشاره شده بود را طی کنید.
 
 شما می‌توانید اطلاعات بیشتری را درباره‌ی PyCharm در لینک  [PyCharm Quickstart](https://www.jetbrains.com/pycharm-educational/quickstart/) مشاهده نمایید.
+
+
+
+<div dir=ltr>
+
+## Vim
+
+<div dir=rtl>
+
+
+۱. نصب [Vim](http://www.vim.org).
+
+* کاربران مکینتاش باید از بسته‌ی `macvim` از طریق [HomeBrew](http://brew.sh/) نصب کنند.
+
+* کاربران ویندوز باید از  [Vim website](http://www.vim.org/download.php) دانلود و نصب کنند.
+
+* کاربران گنولینوکس باید Vim را از منبع وابستگی‌ها نصب کنند. برای دبیان و اوبونتو می‌توانند از بسته‌ی Vim  استفاده کنند.
+
+۲. نصب پلاگین [jedi-vim](https://github.com/davidhalter/jedi-vim) برای خودکار پر کردن( autocompletion).
+
+۳. نصب بسته مورد نیاز  `jedi` برای پایتون :
+
+<div dir=ltr>
+
+
+` pip install -U jedi`
+
+<div dir=rtl>
+
+
+<div dir=ltr>
+
+## Emacs
+
+<div dir=rtl>
+
+۱. نصب  [Emacs 24](http://www.gnu.org/software/emacs).
+
+* کاربران مکینتاش باید  Emacs از http://emacsformacosx.com دانلود کنند.
+
+* کابران ویندوز باید Emacs از http://ftp.gnu.org/gnu/emacs/windows/ دانلود کنند.
+
+* کاربران گنولینوکس باید Emacs از  منبع وابستگی‌ها نصب کنند. برای دبیان و اوبونتو می‌توانند از بسته‌ی  `emacs24` استفاده کنند.
+
+۲. نصب  [ELPY](https://github.com/jorgenschaefer/elpy/wiki).
