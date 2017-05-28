@@ -92,16 +92,16 @@ Hello World
 هنگامی که شما PyCharm را باز می‌کنید، شما این را خواهید دید، `Create New Project` برروی ان کلیک کنید:
 
 
-![When you open PyCharm](./img/pycharm_open.png)
+![زمانی که PyCharmرا باز می‌کنید](./img/pycharm_open.png)
 
 `Pure Python` انتخاب کنید:
 
-![PyCharm New Project](./img/pycharm_create_new_project.png)
+![PyCharm ایجاد پروژه‌ی جدید](./img/pycharm_create_new_project.png)
 
 `untitled` را به  `helloworld` تغییر بدهید. همچنین محل پروژه و جزییات را باید به این شکل ببینید:
 
 
-![PyCharm project details](./img/pycharm_create_new_project_pure_python.png)
+![PyCharm جزئیات پروژه](./img/pycharm_create_new_project_pure_python.png)
 
 برروی کلید  `Create` کلیک کنید:
 
@@ -112,11 +112,11 @@ Hello World
 به شما گفته می‌شود اسم را وارد کنید، `hello` را وارد کنید.
 
 
-![PyCharm New File dialog box](./img/pycharm_new_file_input.png)
+![ PyCharm کادرمحاوره‌ی فایل جدید](./img/pycharm_new_file_input.png)
 
 حالا شما می‌توانید فایل باز شده را ببینید:
 
-![PyCharm hello.py file](./img/pycharm_hello_open.png)
+![PyCharm فایل hello.py ](./img/pycharm_hello_open.png)
 
 خطوط موجود را پاک کرده و متن زیر را وارد کنید:
 
@@ -136,17 +136,17 @@ print("hello world")
 
 حالا برروی متنی که نوشته‌اید راست کلیک کنید (بدون انتخاب متن) و برروی `Run 'hello'` کلیک کنید.
 
-![PyCharm Run 'hello'](./img/pycharm_run.png)
+![PyCharm اجرایی 'hello'](./img/pycharm_run.png)
 
 
 و حالا شما باید نتیجه‌ی برنامه خود را ببینید(چیزی که چاپ می‌کند).
 
-![PyCharm output](./img/pycharm_output.png)
+![PyCharm خروجی](./img/pycharm_output.png)
 
 
 اوف! ،  برای شروع به کار، این چند گام بود. ولی از این به بعد هر گاه ما از شما می‌خواهیم فایل جدید بسازید، از یاد نبرید برروی  `helloworld` راست کلیک کنید و   `New` -> `Python File` را انتخاب کنید و راه‌های قبلی که بالا اشاره شده بود را طی کنید.
 
-شما می‌توانید اطلاعات بیشتری را درباره‌ی PyCharm در لینک  [PyCharm Quickstart](https://www.jetbrains.com/pycharm-educational/quickstart/) مشاهده نمایید.
+شما می‌توانید اطلاعات بیشتری را درباره‌ی PyCharm در لینک  [PyCharm شروع سریع](https://www.jetbrains.com/pycharm-educational/quickstart/) مشاهده نمایید.
 
 
 
