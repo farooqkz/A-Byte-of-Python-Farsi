@@ -20,9 +20,11 @@
 
 <pre><code class="lang-python">{% include "./programs/if.py" %}</code></pre>
 
+<div dir=rtl>
+
 خروجی:
 
-<div dir=rtl>
+<div dir=ltr>
 
 <pre><code>{% include "./programs/if.txt" %}</code></pre>
 
