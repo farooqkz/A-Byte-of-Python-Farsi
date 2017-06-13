@@ -131,13 +131,14 @@
 
 - تمامی سناریوها و قطعات ارئه شده در کتاب تحت مجوز BSD است.  مگر انکه به صراحت گفته شود.
 
-# مطالعه
+# نسخه‌ی فارسی
 
 [منبع فارسی](https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi)
 
 <div dir=ltr>
 
-[نسخه‌ی انلاین](https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi)
+(
+[Gitbook](https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi))[نسخه‌ی گیت‌بوک](https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi)
 
 ## نسخه‌ی زبان اصلی
 
