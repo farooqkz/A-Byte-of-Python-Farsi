@@ -1,5 +1,7 @@
 <div dir=rtl>
 
+از این نکته هم با خبر که ما خیلی سری می‌ریم سر اصل متلب برای راحتر خواندن به ([Gitbook](https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi))[نسخه‌ی گیت‌بوک](https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi)سر بزنید.
+
 
 # مقدمه
 
