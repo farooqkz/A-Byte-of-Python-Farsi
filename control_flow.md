@@ -15,12 +15,14 @@
 برای مثال (فایل `if.py` را ذخیره کنید)
 
 
+<div dir=ltr>
 
 
 
 
 <pre><code class="lang-python">{% include "./programs/if.py" %}</code></pre>
 
+<div dir=rtl>
 
 
 خروجی:
