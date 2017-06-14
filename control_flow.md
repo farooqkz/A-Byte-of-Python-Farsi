@@ -18,15 +18,20 @@
 
 <div dir=ltr>
 
+
 <pre><code class="lang-python">{% include "./programs/if.py" %}</code></pre>
+
 
 <div dir=rtl>
 
 خروجی:
 
+
 <div dir=ltr>
 
+
 <pre><code>{% include "./programs/if.txt" %}</code></pre>
+
 
 
 <div dir=rtl>
