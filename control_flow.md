@@ -16,13 +16,12 @@
 
 
 
-<div dir=ltr>
+
 
 
 <pre><code class="lang-python">{% include "./programs/if.py" %}</code></pre>
 
 
-<div dir=rtl>
 
 خروجی:
 
