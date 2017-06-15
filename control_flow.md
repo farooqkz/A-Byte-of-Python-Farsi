@@ -16,8 +16,7 @@
 
 برای مشاهده برنامه‌ها بهتر است به  لینک زیر سر بزنید:
 
-(https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi) [نسخه‌ی گیت‌بوک]
-
+ [نسخه‌ی گیت‌بوک](https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi)
 
 <div dir=ltr>
 
