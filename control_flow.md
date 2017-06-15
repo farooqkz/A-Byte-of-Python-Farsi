@@ -16,7 +16,7 @@
 
 برای مشاهده برنامه‌ها بهتر است به  لینک زیر سر بزنید:
 
- [نسخه‌ی گیت‌بوک](https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi)
+ [نسخه‌ی گیت‌بوک](https://elyas.gitbooks.io/a-byte-of-python-parsi/content/control_flow.html)
 
 <div dir=ltr>
 
@@ -88,6 +88,14 @@ if True:
 دستور while برای تکرار یک بلوک استفاده می‌شود، به شرط انکه شرطه گفته شده برقرار باشد. دستور while به نام *looping(حلقه)* همچنین می‌نامند. دستور while می‌تواند به صورت اختیاری قسمت `else` را داشته باشد.
 
 برای مثال(فایلی با نام `while.py` ذخیره کنید)
+
+
+برای مشاهده برنامه‌ها بهتر است به  لینک زیر سر بزنید:
+
+ [نسخه‌ی گیت‌بوک](https://elyas.gitbooks.io/a-byte-of-python-parsi/content/control_flow.html)
+
+
+
 
 <div dir=ltr>
 
