@@ -140,6 +140,9 @@
 (
 [Gitbook](https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi))[نسخه‌ی گیت‌بوک](https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi)
 
+<div dir=rtl>
+
+
 ## کمک به توسعه کتاب
 
 درصورت مشاهده هرگونه غلط املایی یا نامفهوم بودن جلمه خوش‌حال می‌شوم برای توسعه کتاب به ما خبر بدهید.
