@@ -14,7 +14,9 @@
 
 برای مثال (فایل `if.py` را ذخیره کنید)
 
-برای مشاهده برنامه‌ها بهتر است به (https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi))[نسخه‌ی گیت‌بوک](https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi) سر بزنید.
+برای مشاهده برنامه‌ها بهتر است به  لینک زیر سر بزنید:
+
+(https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi))[نسخه‌ی گیت‌بوک](https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi)
 
 
 <div dir=ltr>
