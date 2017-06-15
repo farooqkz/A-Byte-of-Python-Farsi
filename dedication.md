@@ -1,6 +1,10 @@
 <div dir=rtl>
 
 
+از این نکته هم با خبر که ما خیلی سری می‌ریم سر اصل متلب برای راحتر خواندن به ([Gitbook](https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi))[نسخه‌ی گیت‌بوک](https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi)سر بزنید.
+
+
+
 # فداکاریها
 
 به یاد [Kalyan Varma](http://www.kalyanvarma.net/) و همچنین خیلی‌ از افراد دیگر در  [PESIT](http://www.pes.edu/)  که ما را با دنیای گنولینوکس و منبع باز اشنا کردن.
