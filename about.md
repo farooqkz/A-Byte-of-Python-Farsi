@@ -24,7 +24,7 @@ Colophon {#colophon}
 
 در هفتمین پروژه من به عنوان پایه برای نصابم  از [MediaWiki](http://www.mediawiki.org)  استفاده کردم . من دیگه  به قول خودمون گفتنی به ویرایش در اینترنت عادت کرده بودم و افراد به طور مستقم می‌توانستند بخوانند ، ویرایش کنند و درباره کتاب در سایت ویکی بحث کنند. اما در پایان من وقت بیشترم صرف spam میشد در حال کی باید صرف ایمیل‌ها میشد.
 
-در پروژه هشتم من از  [Vim]({{ book.vimBookUrl }}), [Pandoc](http://johnmacfarlane.net/pandoc/README.html) و مکینتاش استفاده کردم.
+در پروژه هشتم از  [Vim]({{ book.vimBookUrl }}), [Pandoc](http://johnmacfarlane.net/pandoc/README.html) و مکینتاش استفاده کردم.
 
 در نهمیمن پیش‌نویس من به فرمت  [AsciiDoc format](http://asciidoctor.org/docs/what-is-asciidoc/) و [Emacs 24.3](http://www.masteringemacs.org/articles/2013/03/11/whats-new-emacs-24-3/),
 [tomorrow theme](https://github.com/chriskempson/tomorrow-theme),
