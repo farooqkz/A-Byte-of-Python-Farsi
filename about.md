@@ -35,7 +35,7 @@ Colophon {#colophon}
 
 ۲۰۱۶: من از چند مشکل جزئی  AsciiDoctor مثلا برای نوشتن `++` و `C/C++` خسته شده بودم  . برای غالب گیری و از این کارها، سختی‌های خودش را داشت. بخاطر سختی‌های فرمت  Asciidoc دیگر تمایلی به ویرایش متن نداشتم.
 
-برای دهمین پروژه من به سوی فرمت  [GitBook](https://www.gitbook.com)  Markdown  پناه اوردم .
+برای دهمین پروژه  به سوی فرمت  [GitBook](https://www.gitbook.com)  Markdown  پناه اوردم .
 
 
 و از ویرایشگر  [Spacemacs editor](http://spacemacs.org) استفاده کردم.
