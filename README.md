@@ -107,11 +107,14 @@
 
 # مجوز
 
-این کتاب تحت مجوز
+این کتاب تحت مجوز مجوز کرییتیو کامنز توزیع شده است.
+
+<div dir=ltr>
 
 [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 
-توزیع شده است.
+<div dir=rtl>
+
 
 این بداین معنی است که:
 
