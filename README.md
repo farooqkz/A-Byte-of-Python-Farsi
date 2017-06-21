@@ -88,17 +88,17 @@
 - اصول زبان های برنامه نویسی همچنین در  [Vrije Universiteit, Amsterdam](http://www.few.vu.nl/~nsilvis/PPL/2007/index.html) 
  -  مفاهیم اساسی محاسبات  همچنین در  [دانشگاه کالیفرنیا، دیویس](http://www.cs.ucdavis.edu/courses/exp_course_desc/10.html)
 
--  برنامه نویسی با پایتون  همچنین در  [Harvard University](http://www.people.fas.harvard.edu/~preshman/python_winter.html)
+-  برنامه نویسی با پایتون  همچنین در  [دانشگاه هاروارد ](http://www.people.fas.harvard.edu/~preshman/python_winter.html)
 
--  معرفی برنامه‌نویسی همچنین در [University of Leeds](http://www.comp.leeds.ac.uk/acom1900/)
+-  معرفی برنامه‌نویسی همچنین در [دانشگاه لیدز](http://www.comp.leeds.ac.uk/acom1900/)
 
-- معرفی برنامه‌نویسی و نرم افزارهای برنامه نویسی همچنین در  [Boston University](http://www.cs.bu.edu/courses/cs108/materials.html)
+- معرفی برنامه‌نویسی و نرم افزارهای برنامه نویسی همچنین در  [دانشگاه بوستون](http://www.cs.bu.edu/courses/cs108/materials.html)
 
-- فن آوری اطلاعات مهارت های هواشناسی همچنین در [University of Oklahoma](http://gentry.metr.ou.edu/byteofpython/)
+- فن آوری اطلاعات مهارت های هواشناسی همچنین در [دانشگاه اکلاهما ](http://gentry.metr.ou.edu/byteofpython/)
 
--  'Geoprocessing'  همچنین در [Michigan State University](http://www.msu.edu/~ashton/classes/825/index.html)
+-  'Geoprocessing'  همچنین در [دانشگاه ایالتی میشیگان](http://www.msu.edu/~ashton/classes/825/index.html)
 
-- اشنای با علوم کامپیوتر و برنامه نویسی همچنین در  [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/)
+- اشنای با علوم کامپیوتر و برنامه نویسی همچنین در  [درس‌افزار باز ام‌آی‌تی](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/)
 
 
 
