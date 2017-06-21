@@ -163,16 +163,15 @@
 ## نسخه‌ی زبان اصلی
 
 
-<div dir=ltr>
 
 
 
-- [PDF (for desktop reading, etc.)](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
-- [EPUB (for iPhone/iPad, ebook readers, etc.)](https://www.gitbook.com/download/epub/book/swaroopch/byte-of-python)
+
+- [پی‌دی‌اف  (برای خواندن راحتر, etc.)](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
+- [ای‌پاب (برای آیفون و آی‌پد , ebook readers, etc.)](https://www.gitbook.com/download/epub/book/swaroopch/byte-of-python)
 - [Mobi (for Kindle)](https://www.gitbook.com/download/mobi/book/swaroopch/byte-of-python)
 
 
-<div dir=rtl>
 
 
 به زبان مادری خود این کتاب را بخوانید.
