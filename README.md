@@ -1,7 +1,14 @@
 <div dir=rtl>
 
 
-##  یک بایت از پایتون - "A Byte of Python " به فارسی
+
+#  یک بایت از پایتون 
+
+<div dir=ltr>
+
+## A Byte of Python  
+
+<div dir=rtl>
 
 توجه داشته باشید : *مترجم*
 
