@@ -85,7 +85,7 @@
 
 این کتاب به عنوان یک کتاب درسی در موسسات اموزشی عالی زیر تدریس می شود:
 
-- اصول زبان های برنامه نویسی همچنین در  [Vrije Universiteit, Amsterdam](http://www.few.vu.nl/~nsilvis/PPL/2007/index.html) 
+- اصول زبان های برنامه نویسی همچنین در  [Vrije دانشگاه آمستردام](http://www.few.vu.nl/~nsilvis/PPL/2007/index.html) 
  -  مفاهیم اساسی محاسبات  همچنین در  [دانشگاه کالیفرنیا، دیویس](http://www.cs.ucdavis.edu/courses/exp_course_desc/10.html)
 
 -  برنامه نویسی با پایتون  همچنین در  [دانشگاه هاروارد ](http://www.people.fas.harvard.edu/~preshman/python_winter.html)
