@@ -7,7 +7,7 @@
 
 # فداکاریها
 
-به یاد [Kalyan Varma](http://www.kalyanvarma.net/) و همچنین خیلی‌ از افراد دیگر در  [PESIT](http://www.pes.edu/)  که ما را با دنیای گنولینوکس و منبع باز اشنا کردن.
+به یاد [Kalyan Varma](http://www.kalyanvarma.net/) و همچنین خیلی‌ از افراد دیگر در دانشگاه  [PESIT](http://www.pes.edu/)  که ما را با دنیای گنولینوکس و متن‌باز اشنا کردن.
 
 همچنین یادی از  [Atul Chitnis](http://www.nextbigwhat.com/atul-chitnis-obituary-297/) دوست و راهنمایی که تا یک حدی از دست رفته.
 
