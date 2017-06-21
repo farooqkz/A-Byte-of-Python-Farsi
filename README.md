@@ -170,7 +170,7 @@
 - [پی‌دی‌اف  (برای خواندن راحتر, غیره.)](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
 - [ای‌پاب (برای آیفون و آی‌پد , غیره.)](https://www.gitbook.com/download/epub/book/swaroopch/byte-of-python)
 
-- [(Mobi) موبای (Kindle برای)](https://www.gitbook.com/download/mobi/book/swaroopch/byte-of-python)
+- [موبای (Mobi) (برای Kindle)](https://www.gitbook.com/download/mobi/book/swaroopch/byte-of-python)
 
 
 
