@@ -220,11 +220,15 @@ print('{name} wrote {book}'.format(name='Swaroop', book='A Byte of Python'))
 
 خروجی:
 <div dir=ltr>
+
+
 ```
 0.333
 ___hello___
 Swaroop wrote A Byte of Python
 ```
+
+
 <div dir=rtl>
 
 از انجا که بحث ما در مورد قالب بندی است ، توجه داشته باشید که   `print`  همیشه با یک کاراکتر نامرئی  "new line"  به (`\n`)  پایان می‌رسد. به طوری که صدا زدن مکرر  `print`  همه را در یک خط جداگانه `print`  چاپ می‌کند. برای جلوگیری از کاراکتر newline  در چاپ ، شما می‌توانید با مشخص `end`  این کار را انجام دهید.
