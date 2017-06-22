@@ -5,7 +5,7 @@
 
 ۲. لطفا  [fork the repository](https://help.github.com/articles/fork-a-repo) .
 
-۳. سپس منبع را در رایانه‌ی خود داشته باشید. شما باید بدانید  برای انجام این کار از  [Git](http://www.git-scm.com) چگونه استفاده کنید .
+۳.  منبع را در رایانه‌ی خود داشته باشید. شما باید بدانید  برای انجام این کار از  [Git](http://www.git-scm.com) چگونه استفاده کنید .
 
 ۴. خواندن  [GitBook documentation](https://help.gitbook.com) و [Markdown section](https://help.gitbook.com/format/markdown.html).
 
