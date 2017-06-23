@@ -150,7 +150,6 @@ print("hello world")
 
 
 
-<div dir=ltr>
 
 ## ویم
 
@@ -177,7 +176,6 @@ print("hello world")
 <div dir=rtl>
 
 
-<div dir=ltr>
 
 ## ایمکس
 
