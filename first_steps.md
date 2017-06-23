@@ -152,18 +152,18 @@ print("hello world")
 
 <div dir=ltr>
 
-## Vim
+## ویم
 
 <div dir=rtl>
 
 
-۱. نصب [Vim](http://www.vim.org).
+۱. نصب [ویم](http://www.vim.org).
 
 * کاربران مکینتاش باید از بسته‌ی `macvim` از طریق [HomeBrew](http://brew.sh/) نصب کنند.
 
-* کاربران ویندوز باید از  [Vim website](http://www.vim.org/download.php) دانلود و نصب کنند.
+* کاربران ویندوز باید از  [وبسایت ویم](http://www.vim.org/download.php) دانلود و نصب کنند.
 
-* کاربران گنولینوکس باید Vim را از منبع وابستگی‌ها نصب کنند. برای دبیان و اوبونتو می‌توانند از بسته‌ی Vim  استفاده کنند.
+* کاربران گنولینوکس باید ویم را از منبع وابستگی‌ها نصب کنند. برای دبیان و اوبونتو می‌توانند از بسته‌ی ویم  استفاده کنند.
 
 ۲. نصب پلاگین [jedi-vim](https://github.com/davidhalter/jedi-vim) برای خودکار پر کردن( autocompletion).
 
@@ -179,17 +179,17 @@ print("hello world")
 
 <div dir=ltr>
 
-## Emacs
+## ایمکس
 
 <div dir=rtl>
 
-۱. نصب  [Emacs 24](http://www.gnu.org/software/emacs).
+۱. نصب  [ایمکس ۲۴](http://www.gnu.org/software/emacs).
 
-* کاربران مکینتاش باید  Emacs از http://emacsformacosx.com دانلود کنند.
+* کاربران مکینتاش باید  ایمکس از http://emacsformacosx.com دانلود کنند.
 
-* کابران ویندوز باید Emacs از http://ftp.gnu.org/gnu/emacs/windows/ دانلود کنند.
+* کابران ویندوز باید ایمکس از http://ftp.gnu.org/gnu/emacs/windows/ دانلود کنند.
 
-* کاربران گنولینوکس باید Emacs از  منبع وابستگی‌ها نصب کنند. برای دبیان و اوبونتو می‌توانند از بسته‌ی  `emacs24` استفاده کنند.
+* کاربران گنولینوکس باید ایمکس از  منبع وابستگی‌ها نصب کنند. برای دبیان و اوبونتو می‌توانند از بسته‌ی  `ایمکس ۲۴` استفاده کنند.
 
 ۲. نصب  [ELPY](https://github.com/jorgenschaefer/elpy/wiki).
 
