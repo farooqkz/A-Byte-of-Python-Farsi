@@ -32,7 +32,7 @@
 
 اگر به درستی برنامه را نصب نکرده‌اید، این مراحل را انجام دهید. در غیر این صورت  `Running Python prompt on Windows(شل پایتون را روی ویندوز اجرا نمایید)`.
 
-نکته:  برای ان کسانی که با برنامه نویسی اشنا هستند و با Docker اشنا هستند، در غیراین صورت به این قسمت‌ها [Python in Docker](https://hub.docker.com/_/python/) و [Docker on Windows](https://docs.docker.com/windows/) مراجعه کنید.
+نکته:  برای ان کسانی که با برنامه نویسی Docker اشنا هستند، در غیراین صورت به این قسمت‌ها [Python in Docker](https://hub.docker.com/_/python/) و [Docker on Windows](https://docs.docker.com/windows/) مراجعه کنید.
 
 
 ### DOS Prompt (شل داس)   {#dos-prompt}
