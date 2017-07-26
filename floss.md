@@ -32,18 +32,24 @@ FLOSS {#floss}
 
 برای اطلاعات پیدا کردن از اخرین اخبار دنیای نرم‌افزار ازاد و متن باز به لینک زیر سر بزنید:
 
+<div dir=ltr>
 
 - [OMG! Ubuntu!](http://www.omgubuntu.co.uk/)
 - [Web Upd8](http://www.webupd8.org/)
 - [DistroWatch](http://www.distrowatch.com)
 - [Planet Debian](http://planet.debian.org/)
 
+<div dir=rtl>
+
 برای کسب اطلاعات بیشتر در مورد نرم‌افزار و ازاد و متن باز از لینک‌های زیر نیز بازدید کنید:
 
+<div dir=ltr>
 
 - [GitHub Explore](http://github.com/explore)
 - [Code Triage](http://www.codetriage.com/)
 - [SourceForge](http://www.sourceforge.net)
 - [FreshMeat](http://www.freshmeat.net)
+
+<div dir=rtl>
 
 پس پیش به سوی دنیای وسیع و ازاد، نرم‌افزار ازاد و متن باز!
