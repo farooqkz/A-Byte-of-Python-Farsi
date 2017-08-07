@@ -223,7 +223,4 @@
 
 <div dir=rtl>
 
-test 1
-test 2
-test 3 
-test 4
+ادامه دارد:
